@@ -1,12 +1,12 @@
-City Recommendation System for New Graduates
-Project Overview
+City Recommendation System for New Graduates.
+Project Overview:
 This project, part of the MSBA Fall 2024: Analytics for Unstructured Data course, aims to help new graduates find optimal cities to relocate based on their preferences. The system leverages scraped data from various city subreddits to recommend cities that match user-defined attributes.
 
 Data was scraped from the top 20 U.S. city subreddits focusing on:
-Post titles and bodies
-Upvotes
-Top comments
-Analysis
+Post titles and bodies,
+Upvotes,
+Top comments,
+Analysis, and 
 Key Components
 
 Word Counts: Analyzed based on total and weighted word counts per city.
